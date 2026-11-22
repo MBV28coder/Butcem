@@ -1,0 +1,14 @@
+{
+  "name": "Bütçem",
+  "short_name": "Bütçem",
+  "description": "Kişisel bütçe, harcama, fatura, abonelik ve birikim takibi",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f0c0a",
+  "theme_color": "#0f0c0a",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
